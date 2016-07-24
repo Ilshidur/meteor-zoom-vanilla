@@ -1,7 +1,7 @@
 Package.describe({
   name: 'ilshidur:zoom-vanilla',
   version: '0.0.1',
-  summary: 'Medium\'s Image Zoom without jQuery. https://spinningarrow.github.io/zoom-vanilla.js wrapped for Meteor.',
+  summary: 'spinningarrow/zoom-vanilla.js wrapped for Meteor.',
   git: 'https://github.com/Ilshidur/meteor-zoom-vanilla'
 });
 
