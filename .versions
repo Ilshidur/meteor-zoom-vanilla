@@ -1,2 +1,3 @@
 ilshidur:zoom-vanilla@0.0.1
-meteor@1.1.6
+meteor@1.1.16
+underscore@1.0.9
