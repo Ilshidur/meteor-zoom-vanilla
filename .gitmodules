@@ -1,0 +1,3 @@
+[submodule "lib/zoom-vanilla.js"]
+	path = lib/zoom-vanilla.js
+	url = https://github.com/spinningarrow/zoom-vanilla.js
