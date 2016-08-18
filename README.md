@@ -1,5 +1,7 @@
 # meteor-zoom-vanilla
 
+DEPRECATED ! Use [stephan281094/meteor-zoom](https://github.com/stephan281094/meteor-zoom) instead.
+
 Medium's Image Zoom without jQuery. https://spinningarrow.github.io/zoom-vanilla.js wrapped for Meteor.
 Inspired from https://github.com/stephan281094/meteor-zoom.
 

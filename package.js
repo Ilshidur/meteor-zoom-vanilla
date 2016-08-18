@@ -1,6 +1,6 @@
 Package.describe({
   name: 'ilshidur:zoom-vanilla',
-  version: '0.0.1',
+  version: '0.0.2',
   summary: 'spinningarrow/zoom-vanilla.js wrapped for Meteor.',
   git: 'https://github.com/Ilshidur/meteor-zoom-vanilla'
 });
